@@ -1,2 +1,2 @@
 # git_test
-GitHun repo test
+GitHub repo test
